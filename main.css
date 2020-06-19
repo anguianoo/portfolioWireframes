@@ -55,7 +55,8 @@
     height: 30px;
   }
   .aboutNav{
-  margin-top: 80px;
+    text-align: center;
+  margin-top: 10px;
   }
   .aboutMeNa{
     position: relative;
